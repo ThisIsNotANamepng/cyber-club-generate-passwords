@@ -1,1 +1,0 @@
-# cyber-club-generate-passwords
